@@ -1,0 +1,17 @@
+@font-family: 'Roboto', sans-serif;
+
+ /* ajoute une bordure à tous les élements pour le visualiser dans le navigateur /
+
+ul {     
+  
+    list-style-type: none; / retire la puce de chaque li /     
+    padding: 0; / supprime les 40px de padding-left par défaut de la balise ul */ 
+
+
+* { 
+  border: 1px purple dotted;
+} 
+ul {
+  list-style-type: none;
+  padding: 0; 
+}
